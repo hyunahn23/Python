@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<!--
+    head :
+     - html문서의 설정영역. 시각화되지 않음.
+     - 인코딩. 화면크기, 배율설정
+     - 페이지제목
+     - CSS
+     - JS
+     - 페이지 출처, 저자, 요약
+     - 정보 제공여부
+-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>샘플 HTML Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        header, footer {
+            background-color: #f8f8f8;
+            padding: 10px;
+            text-align: center;
+        }
+        .navigation ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .navigation ul li {
+            display: inline;
+            margin: 0 10px;
+        }
+        .section-content {
+            margin-bottom: 20px;
+        }
+        .highlight {
+            color: red;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #000;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+        .centered {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+<!--
+    body :
+        화면에 노출될 내용
+        header, main, footer, aside 등의 구조를 가진다.
+-->
+    <header>
+        <h1 id='page-title'>Welcome to the Sample HTML Page</h1>
+    </header>
+    
+    <nav class="navigation">
+        <ul>
+            <li><a href="#section1">Section 1</a></li>
+            <li><a href="#section2">Section 2</a></li>
+            <li><a href="#section3">Section 3</a></li>
+        </ul>
+    </nav>
+
+    <section id="section1" class="section-content">
+        <h2>Section 1: Introduction</h2>
+        <p>This is a sample paragraph. <strong class="highlight">Bold text</strong> and <em>italic text</em> are commonly used to emphasize content. You can also include <a href="https://www.example.com" target="_blank">links</a> to other pages.</p>
+        <p>Here is an image:</p>
+        <img src="https://via.placeholder.com/150" alt="Placeholder Image" class="centered">
+    </section>
+
+    <section id="section2" class="section-content">
+        <h2>Section 2: List Examples</h2>
+        <h3>Unordered List</h3>
+        <ul>
+            <li>List item 1</li>
+            <li>List item 2</li>
+            <li>List item 3</li>
+        </ul>
+        <h3>Ordered List</h3>
+        <ol>
+            <li>First item</li>
+            <li>Second item</li>
+            <li>Third item</li>
+        </ol>
+    </section>
+
+    <section id="section3" class="section-content">
+        <h2>Section 3: Table Example</h2>
+        <table>
+            <caption class="centered">Sample Table</caption>
+            <thead>
+                <tr>
+                    <th>Header 1</th>
+                    <th>Header 2</th>
+                    <th>Header 3</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Row 1, Cell 1</td>
+                    <td>Row 1, Cell 2</td>
+                    <td>Row 1, Cell 3</td>
+                </tr>
+                <tr>
+                    <td>Row 2, Cell 1</td>
+                    <td>Row 2, Cell 2</td>
+                    <td>Row 2, Cell 3</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Sample HTML Page. All rights reserved.</p>
+    </footer>
+</body>
+</html>
