@@ -1,6 +1,6 @@
 # Python Basics Repository
 <div align="center">
-  <img src="[https://image.librewiki.net/1/16/Battlecruiser_SCR_Art1.jpg](https://i.namu.wiki/i/mxMv5lNX8m8lUwu7yTjN6eNZh8JVuI6a_chEyMRc4V9oECkhVIl7OiPiGIOllv14uDVNuwRPVco8abCPe5xOiQ.svg)" width="500" height="200"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2FPython&psig=AOvVaw1jz0SU2uYZ91G7P3Kn3-10&ust=1745886314292000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCzr8C7-YwDFQAAAAAdAAAAABAJ" width="500" height="200"/>
 </div>
 ## Overview
 This repository is dedicated to building a solid foundation in Python programming.  
