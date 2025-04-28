@@ -1,7 +1,8 @@
 # Python Basics Repository
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="400" height="150"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="200" height="150"/>
 </div>>
+
 ## Overview
 This repository is dedicated to building a solid foundation in Python programming.  
 It contains simple, essential codes and examples that cover core Python concepts.
