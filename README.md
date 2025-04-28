@@ -15,3 +15,7 @@ It contains simple, essential codes and examples that cover core Python concepts
 
 ## Requirements
 - Python 3.8 or higher
+
+- ## Additional Practice
+This repository also includes practice codes related to **web crawling**,  
+providing hands-on experience with data collection techniques using Python libraries such as `requests`, `BeautifulSoup`, and `Selenium`.
