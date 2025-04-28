@@ -9,3 +9,6 @@ It contains simple, essential codes and examples that cover core Python concepts
 - Practice basic programming structures such as variables, conditionals, loops, and functions
 - Build a habit of writing clean, readable code
 - Prepare for more advanced topics in software development and machine learning
+
+## Requirements
+- Python 3.8 or higher
