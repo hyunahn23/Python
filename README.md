@@ -1,6 +1,6 @@
 # Python Basics Repository
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="200" height="150"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="200" height="200"/>
 </div>>
 
 ## Overview
